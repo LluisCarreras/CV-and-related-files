@@ -2,4 +2,4 @@
 My CV and related files:
 - CV.
 - Publications.
-- Recomendations.
+- Letters of recommendation.
